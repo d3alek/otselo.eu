@@ -11,8 +11,10 @@ disqusShortname = "XYW"
 [Languages]
 [Languages.bg]
     title = "От село"
+    description = "Устойчиво земеделие в мащаб"
 [Languages.en]
     title = "From the village"
+    description = "Sustainable agriculture at scale"
 [taxonomies]
     tags = "tags"
     categories = "categories"

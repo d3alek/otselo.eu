@@ -1,12 +1,12 @@
 <article class="sn">
 
-  <div class="thumb thumb-{{ .UniqueID }}"></div>
+    <div class="thumb">
+        {{partial "zelenik_counters"}}
+    </div>
 
   <header class="article-header">
     <h1 class="title">{{ .Title }}</h1>
 
-    {{ partial "facts.html" . }}
-    {{ partial "share.html" . }}
   </header>
 
   {{ if .Params.toc }}
@@ -18,8 +18,6 @@
   <div class="article-body">{{ .Content }}</div>
 
   <footer class="article-footer">
-
-    {{ partial "share.html" . }}
 
     {{ partial "crumb" . }}
 
@@ -41,5 +39,3 @@
     {{ end }}
     {{ end }}
   </footer>
-
-</article>

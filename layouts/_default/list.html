@@ -1,4 +1,4 @@
-{{ define "title" }}{{ if not .IsHome }}{{ .Title }} - {{ end }}{{ end }}
+{{ define "title" }}{{ if not .IsHome }}{{ lower .Title | i18n | title }} - {{ end }}{{ end }}
 
 {{ define "main" }}
 <div class="mrow">
@@ -6,14 +6,20 @@
 
     {{ if not .IsHome }}
     <header class="page-title">
-      <h1 class="title">{{ .Title }}</h1>
+      <h1 class="title">{{ lower .Title | i18n | title }}</h1>
     </header>
     {{ end }}
 
     <div class="articles">
       <div class="mrow">
         {{ range (.Paginate .Data.Pages).Pages }}
-        <div class="mcol c6">{{ .Render "li" }}</div>
+        <div class="mcol c6">
+        {{ if eq .Section "projects" }}
+        {{ .Render "li_project" }}
+        {{ else }}
+        {{ .Render "li_post" }}
+        {{ end }}
+        </div>
         {{ end }}
       </div>
     </div>

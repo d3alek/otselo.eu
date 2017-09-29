@@ -1,5 +1,5 @@
 [latests]
-other = "последно обновени"
+other = "последни писма"
 [categories]
 other = "категории"
 [tags]
@@ -12,4 +12,13 @@ other = "животни"
 other = "магаре"
 [info]
 other = "информация"
-
+[zelenik]
+other = "зеленик"
+[technology]
+other = "технологии"
+[projects]
+other = "проекти"
+[posts]
+other = "писма"
+[top]
+other = "начало"
