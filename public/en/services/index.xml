@@ -1,32 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>From the village</title>
-    <link>/en/</link>
-    <description>Recent content on From the village</description>
+    <title>Services on From the village</title>
+    <link>/en/services/</link>
+    <description>Recent content in Services on From the village</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 01 Sep 2017 17:39:43 +0200</lastBuildDate>
     
-	<atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/en/services/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Pricing</title>
-      <link>/en/pricing/pricing/</link>
-      <pubDate>Fri, 01 Sep 2017 17:39:43 +0200</pubDate>
-      
-      <guid>/en/pricing/pricing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/en/about/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/en/about/about/</guid>
-      <description>Sustainable agriculuture at scale. IoT for fields, gardens and greenhouses. Monitoring and control from the Cloud. A team of three young engineers, based in Varna, Bulgaria.</description>
-    </item>
     
     <item>
       <title>Automation</title>

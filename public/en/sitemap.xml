@@ -3,6 +3,64 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/en/pricing/pricing/</loc>
+    <lastmod>2017-09-01T17:39:43+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="/pricing/pricing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/pricing/pricing/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/about/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="/about/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/about/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/about/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/services/automation/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="/services/automation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/services/automation/"
+                />
+  </url>
+  
+  <url>
     <loc>/en/categories/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -19,6 +77,7 @@
   
   <url>
     <loc>/en/</loc>
+    <lastmod>2017-09-01T17:39:43+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -29,6 +88,65 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/services/in-action/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="/services/in-action/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/services/in-action/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/services/monitoring/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="/services/monitoring/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/services/monitoring/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/pricing/</loc>
+    <lastmod>2017-09-01T17:39:43+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="/pricing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/pricing/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/services/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="/services/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/services/"
                 />
   </url>
   
@@ -44,6 +162,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/services/zelenik-1/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="/services/zelenik-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/services/zelenik-1/"
                 />
   </url>
   
