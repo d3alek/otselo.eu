@@ -1,10 +1,7 @@
 # Site settings
 baseurl = "http://otselo.eu/"
 defaultContentLanguage = "bg"
-theme = "hugo_theme_robust"
-# Enter your tracking code to enable Google Analytics
-googleAnalytics = "UA-XXXXXXXX-Y"
-disqusShortname = "XYW"
+theme = "landing-page-hugo"
 
 [params]
     
@@ -15,9 +12,20 @@ disqusShortname = "XYW"
 [Languages.en]
     title = "From the village"
     description = "Sustainable agriculture at scale"
+
 [taxonomies]
     tags = "tags"
     categories = "categories"
     
+[[params.social]]
+    title="email"
+    icon="envelope-o"
+    url="mailto:akodzhabashev@gmail.com"
+
+[[params.social]]
+    title="facebook"
+    icon="facebook"
+    url="https://www.facebook.com/otseloeu"
+
 
    

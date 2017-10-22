@@ -22,3 +22,15 @@ other = "projects"
 other = "posts"
 [top]
 other = "top"
+[About]
+other= "About"
+[Products]
+other= "Products"
+[Pricing]
+other= "Pricing"
+[Contact]
+other= "Contact"
+[CompanyNameFooter]
+other = "Seloto Ltd. All rights reserved."
+[Home]
+other = "Home"
